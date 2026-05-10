@@ -1,6 +1,15 @@
 data/
 venv/
 __pycache__/
-*.pyc
+*.py[codz]
+*$py.class
 .DS_Store
 .streamlit/
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+dist/
+build/
+*.egg-info/
